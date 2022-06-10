@@ -13,6 +13,16 @@ entries:
     version: 0.31.0
   - apiVersion: v2
     appVersion: v0.28.0
+    created: "2022-06-10T11:07:44.350061807Z"
+    description: CAST AI agent deployment chart.
+    digest: fcebc61472be9d22e51f5fdbe7959b1132c71f686f35531ef331c5e2071503b8
+    name: castai-agent
+    type: application
+    urls:
+    - https://github.com/matas-cast/helm-charts/releases/download/castai-agent-0.30.0/castai-agent-0.30.0.tgz
+    version: 0.30.0
+  - apiVersion: v2
+    appVersion: v0.28.0
     created: "2022-06-10T10:56:57.837512584Z"
     description: CAST AI agent deployment chart.
     digest: c99f17c68d86b489e7d4914c3605545f21c73257fb52bb839333dbea48cd7408
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://github.com/matas-cast/helm-charts/releases/download/castai-agent-0.29.0/castai-agent-0.29.0.tgz
     version: 0.29.0
-generated: "2022-06-10T10:56:57.837519484Z"
+generated: "2022-06-10T11:07:44.350081908Z"
